@@ -1,0 +1,13 @@
+
+img { display: block;}
+
+.example{
+    margin-top: 1rem;
+    padding: left 20px;
+    border: 1px solid red;
+}
+
+.example img{
+    width: 25%;
+    height: auto;
+}
